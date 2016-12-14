@@ -1,0 +1,11 @@
+{
+    "name": "eskrano/testtask",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "alex.priadko2014@yandex.ru"
+        }
+    ],
+    "require": {}
+}
